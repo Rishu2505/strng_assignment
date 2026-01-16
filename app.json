@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "STRNG-Task",
+    "slug": "STRNG-Task",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/default/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/images/default/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E0C3FC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/default/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/images/default/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "strng-task",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {}
+    }
+  }
+}
