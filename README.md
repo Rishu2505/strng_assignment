@@ -30,26 +30,8 @@ This solution implements the full requirements of a senior-level technical task 
 Capture your app in action to showcase the fluid animations!
 
 | Splash | Users List | Search | Posts | Post Expansion |
-|----------------|-------------------|----------------|
-| <img src="./assets/demo/splash.gif" width="180"/> | <img src="./assets/demo/users.gif" width="180"/> | <img src="./assets/demo/search.gif" width="180"/> | <img src="./assets/demo/user_posts.gif" width="180"/> | <img src="./assets/demo/post_cards.gif" width="180"/> |
-
----
-
-## 🛠️ Media Capture Guide
-
-### 📺 How to Record GIFs
-To record high-quality demo GIFs:
-1.  **Record iOS**: Use QuickTime Player (`File > New Screen Recording`) or the built-in iOS simulator recording (`Cmd + R`).
-2.  **Record Android**: Use the **Screen Record** button in the Emulator sidebar.
-3.  **Convert**: Use a tool like **GIPHY Capture** or **ezgif.com** to convert your `.mov`/`.mp4` to a high-quality GIF.
-4.  **Save**: Place yours in `assets/demo/` and reference them in the table above.
-
-### 📸 How to Take Screenshots
-1.  **Capture**: 
-    - **iOS**: `Cmd + S` in Sim.
-    - **Android**: Camera icon in Emulator sidebar.
-2.  **Organize**: Place in `assets/screenshots/`.
-3.  **Optimize**: Use [TinyPNG](https://tinypng.com) for faster README loading.
+|:------:|:----------:|:------:|:-----:|:--------------:|
+| <img src="./src/assets/screenshots/splash.gif" width="180"/> | <img src="./src/assets/screenshots/users.gif" width="180"/> | <img src="./src/assets/screenshots/search.gif" width="180"/> | <img src="./src/assets/screenshots/user_posts.gif" width="180"/> | <img src="./src/assets/screenshots/post_cards.gif" width="180"/> |
 
 ---
 
